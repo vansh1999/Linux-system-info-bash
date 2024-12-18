@@ -1,5 +1,7 @@
 ## Introduction
 
+The goal of this project is to write a bash script to analyse Linux System ​​Stats / Performance.
+
 Server-styled Bash script that outputs server, disk, and user information
 
 ## Breakdown of the script:
